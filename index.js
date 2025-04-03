@@ -47,23 +47,23 @@ class Polygon {
     }
   }
   
-  // Example usage:
+  // // Example usage:
   
-  // Polygon example (General polygon, not necessarily a shape)
-  const polygon = new Polygon([3, 4, 5]);
-  console.log(polygon.countSides);  // Output: 3
-  console.log(polygon.perimeter);  // Output: 12
+  // // Polygon example (General polygon, not necessarily a shape)
+  // const polygon = new Polygon([3, 4, 5]);
+  // console.log(polygon.countSides);  // Output: 3
+  // console.log(polygon.perimeter);  // Output: 12
   
-  // Triangle example
-  const triangle = new Triangle([3, 4, 5]);
-  console.log(triangle.countSides);  // Output: 3
-  console.log(triangle.perimeter);  // Output: 12
-  console.log(triangle.isValid);    // Output: true
+  // // Triangle example
+  // const triangle = new Triangle([3, 4, 5]);
+  // console.log(triangle.countSides);  // Output: 3
+  // console.log(triangle.perimeter);  // Output: 12
+  // console.log(triangle.isValid);    // Output: true
   
-  // Square example
-  const square = new Square([4, 4, 4, 4]);
-  console.log(square.countSides);  // Output: 4
-  console.log(square.perimeter);  // Output: 16
-  console.log(square.isValid);    // Output: true
-  console.log(square.area);       // Output: 16
+  // // Square example
+  // const square = new Square([4, 4, 4, 4]);
+  // console.log(square.countSides);  // Output: 4
+  // console.log(square.perimeter);  // Output: 16
+  // console.log(square.isValid);    // Output: true
+  // console.log(square.area);       // Output: 16
   
